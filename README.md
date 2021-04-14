@@ -1,4 +1,15 @@
-<h1 style="color:#eee" align="center">Task<span style="color:#00adb5">List</span></h1>
+<h1 align="center"><img alt="Task List" title="Task List" src=".github/logo.png" /></h1>
+
+<p align="center">
+  <a href="#-sobre">💻 Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🔧 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-baixar-o-projeto">🚀 Como baixar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">📄 Licença</a>
+</p>
+
+<p align="center">
+  <img alt="Happy" src=".github/mockuper.png" width="90%">
+</p>
 
 ## 💻 Sobre
 
