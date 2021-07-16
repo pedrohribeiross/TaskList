@@ -46,7 +46,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 $ git clone https://github.com/pedrohribeiross/TaskList.git
 
 # Instalar as dependências.
-$ yarn install
+$ yarn
 
 # Rodar o servidor.
 $ yarn dev
